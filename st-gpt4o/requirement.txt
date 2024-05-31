@@ -1,0 +1,8 @@
+requests  
+streamlit  
+json  
+ast  
+openai==0.27.8
+python-dotenv  
+Pillow  
+numpy  
